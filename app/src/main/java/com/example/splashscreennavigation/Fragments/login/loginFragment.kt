@@ -24,14 +24,14 @@ class loginFragment : Fragment(R.layout.login_fragment) {
 
 
 
-        // FIRST WAY
+        //FIRST WAY
 
-         
-        /*binding.button3.setOnClickListener { view ->
+
+        binding.button3.setOnClickListener { view ->
             view.findNavController().navigate(R.id.helloFragment)
 
 
-        }*/
+        }
 
         //SECOND WAY
 
